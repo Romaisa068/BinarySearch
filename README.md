@@ -1,0 +1,2 @@
+# BinarySearch
+All about BinarySearch
